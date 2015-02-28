@@ -1,0 +1,1497 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1336px;
+	 height: 1043px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1336px;
+	 height: 1043px;
+	 z-index:1;
+} 
+
+ #RoundedRectangle7cop 
+{ 
+	 left: 247px; 
+	 top: 731px; 
+	 position: absolute; 
+	 width: 788px;
+	 height: 279px;
+	 z-index:2;
+} 
+
+ #mapcopy3 
+{ 
+	 left: 998px; 
+	 top: 833px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 20px;
+	 z-index:3;
+} 
+
+ #RoundedRectangle11 
+{ 
+	 left: 267px; 
+	 top: 947px; 
+	 position: absolute; 
+	 width: 98px;
+	 height: 38px;
+	 z-index:4;
+} 
+
+ #Refercopy 
+{ 
+	 left: 294px; 
+	 top: 962px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 9px;
+	 z-index:5;
+} 
+
+ #Ellipse2copy18 
+{ 
+	 left: 969px; 
+	 top: 944px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:6;
+} 
+
+ #Layer23copy2 
+{ 
+	 left: 968px; 
+	 top: 943px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:7;
+} 
+
+ #Ellipse2copy18_0 
+{ 
+	 left: 917px; 
+	 top: 944px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:8;
+} 
+
+ #Layer22copy2 
+{ 
+	 left: 912px; 
+	 top: 939px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 56px;
+	 z-index:9;
+} 
+
+ #AssociateConsultanta 
+{ 
+	 left: 268px; 
+	 top: 754px; 
+	 position: absolute; 
+	 width: 513px;
+	 height: 19px;
+	 z-index:10;
+} 
+
+ #PostedunderInternetE 
+{ 
+	 left: 269px; 
+	 top: 783px; 
+	 position: absolute; 
+	 width: 291px;
+	 height: 13px;
+	 z-index:11;
+} 
+
+ #Shape47copy3 
+{ 
+	 left: 266px; 
+	 top: 815px; 
+	 position: absolute; 
+	 width: 749px;
+	 height: 5px;
+	 z-index:12;
+} 
+
+ #Shape47copy3_0 
+{ 
+	 left: 266px; 
+	 top: 892px; 
+	 position: absolute; 
+	 width: 749px;
+	 height: 4px;
+	 z-index:13;
+} 
+
+ #QuickRewardcopy2 
+{ 
+	 left: 268px; 
+	 top: 838px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 11px;
+	 z-index:14;
+} 
+
+ #SkillsHtmlCSSJQueryJ 
+{ 
+	 left: 269px; 
+	 top: 916px; 
+	 position: absolute; 
+	 width: 249px;
+	 height: 11px;
+	 z-index:15;
+} 
+
+ #CandidateSuggestions 
+{ 
+	 left: 834px; 
+	 top: 915px; 
+	 position: absolute; 
+	 width: 178px;
+	 height: 12px;
+	 z-index:16;
+} 
+
+ #Rs400copy2 
+{ 
+	 left: 418px; 
+	 top: 838px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 10px;
+	 z-index:17;
+} 
+
+ #ReferralRewardcopy2 
+{ 
+	 left: 269px; 
+	 top: 862px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 10px;
+	 z-index:18;
+} 
+
+ #Rs16875copy2 
+{ 
+	 left: 418px; 
+	 top: 862px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 10px;
+	 z-index:19;
+} 
+
+ #MinExperiencecopy2 
+{ 
+	 left: 523px; 
+	 top: 838px; 
+	 position: absolute; 
+	 width: 93px;
+	 height: 13px;
+	 z-index:20;
+} 
+
+ #Bangalorecopy2 
+{ 
+	 left: 927px; 
+	 top: 838px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 13px;
+	 z-index:21;
+} 
+
+ #34Yearscopy2 
+{ 
+	 left: 673px; 
+	 top: 838px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 10px;
+	 z-index:22;
+} 
+
+ #Salarycopy2 
+{ 
+	 left: 522px; 
+	 top: 862px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 13px;
+	 z-index:23;
+} 
+
+ #IndustryStdcopy2 
+{ 
+	 left: 674px; 
+	 top: 862px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 13px;
+	 z-index:24;
+} 
+
+ #Rectangle4copy14 
+{ 
+	 left: 929px; 
+	 top: 748px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 57px;
+	 z-index:25;
+} 
+
+ #Rectangle4copy14_0 
+{ 
+	 left: 957px; 
+	 top: 748px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 57px;
+	 z-index:26;
+} 
+
+ #Layer25copy 
+{ 
+	 left: 945px; 
+	 top: 736px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 79px;
+	 z-index:27;
+} 
+
+ #RoundedRectangle7 
+{ 
+	 left: 247px; 
+	 top: 443px; 
+	 position: absolute; 
+	 width: 788px;
+	 height: 278px;
+	 z-index:28;
+} 
+
+ #mapcopy2 
+{ 
+	 left: 998px; 
+	 top: 544px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 20px;
+	 z-index:29;
+} 
+
+ #RoundedRectangle10 
+{ 
+	 left: 267px; 
+	 top: 659px; 
+	 position: absolute; 
+	 width: 98px;
+	 height: 38px;
+	 z-index:30;
+} 
+
+ #Refer 
+{ 
+	 left: 294px; 
+	 top: 673px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 9px;
+	 z-index:31;
+} 
+
+ #Ellipse2copy17 
+{ 
+	 left: 969px; 
+	 top: 655px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:32;
+} 
+
+ #Layer23copy 
+{ 
+	 left: 968px; 
+	 top: 654px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:33;
+} 
+
+ #Ellipse2copy17_0 
+{ 
+	 left: 917px; 
+	 top: 655px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:34;
+} 
+
+ #Layer22copy 
+{ 
+	 left: 912px; 
+	 top: 650px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 56px;
+	 z-index:35;
+} 
+
+ #AssociateConsultanta_0 
+{ 
+	 left: 268px; 
+	 top: 465px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 15px;
+	 z-index:36;
+} 
+
+ #PostedunderInternetE_0 
+{ 
+	 left: 269px; 
+	 top: 494px; 
+	 position: absolute; 
+	 width: 291px;
+	 height: 13px;
+	 z-index:37;
+} 
+
+ #Shape47copy2 
+{ 
+	 left: 266px; 
+	 top: 527px; 
+	 position: absolute; 
+	 width: 749px;
+	 height: 4px;
+	 z-index:38;
+} 
+
+ #Shape47copy2_0 
+{ 
+	 left: 266px; 
+	 top: 603px; 
+	 position: absolute; 
+	 width: 749px;
+	 height: 5px;
+	 z-index:39;
+} 
+
+ #QuickRewardcopy 
+{ 
+	 left: 268px; 
+	 top: 549px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 11px;
+	 z-index:40;
+} 
+
+ #SkillsHtmlCSSJQueryJ_0 
+{ 
+	 left: 269px; 
+	 top: 627px; 
+	 position: absolute; 
+	 width: 249px;
+	 height: 11px;
+	 z-index:41;
+} 
+
+ #CandidateSuggestions_0 
+{ 
+	 left: 834px; 
+	 top: 626px; 
+	 position: absolute; 
+	 width: 178px;
+	 height: 12px;
+	 z-index:42;
+} 
+
+ #Rs400copy 
+{ 
+	 left: 418px; 
+	 top: 549px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 10px;
+	 z-index:43;
+} 
+
+ #ReferralRewardcopy 
+{ 
+	 left: 269px; 
+	 top: 573px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 10px;
+	 z-index:44;
+} 
+
+ #Rs16875copy 
+{ 
+	 left: 418px; 
+	 top: 573px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 10px;
+	 z-index:45;
+} 
+
+ #MinExperiencecopy 
+{ 
+	 left: 523px; 
+	 top: 549px; 
+	 position: absolute; 
+	 width: 93px;
+	 height: 13px;
+	 z-index:46;
+} 
+
+ #Bangalorecopy 
+{ 
+	 left: 927px; 
+	 top: 549px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 13px;
+	 z-index:47;
+} 
+
+ #34Yearscopy 
+{ 
+	 left: 673px; 
+	 top: 549px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 10px;
+	 z-index:48;
+} 
+
+ #Salarycopy 
+{ 
+	 left: 522px; 
+	 top: 573px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 13px;
+	 z-index:49;
+} 
+
+ #IndustryStdcopy 
+{ 
+	 left: 674px; 
+	 top: 573px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 13px;
+	 z-index:50;
+} 
+
+ #Rectangle4copy 
+{ 
+	 left: 929px; 
+	 top: 460px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 56px;
+	 z-index:51;
+} 
+
+ #Rectangle4copy13 
+{ 
+	 left: 957px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 57px;
+	 z-index:52;
+} 
+
+ #Layer25 
+{ 
+	 left: 945px; 
+	 top: 447px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 79px;
+	 z-index:53;
+} 
+
+ #RoundedRectangle7cop_0 
+{ 
+	 left: 247px; 
+	 top: 155px; 
+	 position: absolute; 
+	 width: 788px;
+	 height: 278px;
+	 z-index:54;
+} 
+
+ #mapcopy 
+{ 
+	 left: 998px; 
+	 top: 256px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 20px;
+	 z-index:55;
+} 
+
+ #RoundedRectangle8 
+{ 
+	 left: 267px; 
+	 top: 371px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 38px;
+	 z-index:56;
+} 
+
+ #Refer_0 
+{ 
+	 left: 292px; 
+	 top: 385px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 9px;
+	 z-index:57;
+} 
+
+ #RoundedRectangle9 
+{ 
+	 left: 371px; 
+	 top: 371px; 
+	 position: absolute; 
+	 width: 98px;
+	 height: 38px;
+	 z-index:58;
+} 
+
+ #Apply 
+{ 
+	 left: 399px; 
+	 top: 385px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 9px;
+	 z-index:59;
+} 
+
+ #Ellipse2copy14 
+{ 
+	 left: 969px; 
+	 top: 367px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:60;
+} 
+
+ #Layer23 
+{ 
+	 left: 968px; 
+	 top: 366px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:61;
+} 
+
+ #Ellipse2copy15 
+{ 
+	 left: 917px; 
+	 top: 367px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:62;
+} 
+
+ #Layer22 
+{ 
+	 left: 912px; 
+	 top: 362px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 56px;
+	 z-index:63;
+} 
+
+ #Ellipse2copy16 
+{ 
+	 left: 865px; 
+	 top: 367px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:64;
+} 
+
+ #Layer21 
+{ 
+	 left: 863px; 
+	 top: 365px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:65;
+} 
+
+ #BusinessDevelopmentA 
+{ 
+	 left: 269px; 
+	 top: 177px; 
+	 position: absolute; 
+	 width: 428px;
+	 height: 19px;
+	 z-index:66;
+} 
+
+ #PostedunderInternetE_1 
+{ 
+	 left: 269px; 
+	 top: 206px; 
+	 position: absolute; 
+	 width: 291px;
+	 height: 13px;
+	 z-index:67;
+} 
+
+ #Shape47 
+{ 
+	 left: 266px; 
+	 top: 238px; 
+	 position: absolute; 
+	 width: 749px;
+	 height: 5px;
+	 z-index:68;
+} 
+
+ #Shape47copy 
+{ 
+	 left: 266px; 
+	 top: 316px; 
+	 position: absolute; 
+	 width: 749px;
+	 height: 3px;
+	 z-index:69;
+} 
+
+ #QuickReward 
+{ 
+	 left: 268px; 
+	 top: 261px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 11px;
+	 z-index:70;
+} 
+
+ #SkillsHtmlCSSJQueryJ_1 
+{ 
+	 left: 269px; 
+	 top: 339px; 
+	 position: absolute; 
+	 width: 249px;
+	 height: 11px;
+	 z-index:71;
+} 
+
+ #CandidateSuggestions_1 
+{ 
+	 left: 834px; 
+	 top: 338px; 
+	 position: absolute; 
+	 width: 178px;
+	 height: 12px;
+	 z-index:72;
+} 
+
+ #Rs400 
+{ 
+	 left: 418px; 
+	 top: 261px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 10px;
+	 z-index:73;
+} 
+
+ #ReferralReward 
+{ 
+	 left: 269px; 
+	 top: 285px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 10px;
+	 z-index:74;
+} 
+
+ #Rs16875 
+{ 
+	 left: 418px; 
+	 top: 285px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 10px;
+	 z-index:75;
+} 
+
+ #MinExperience 
+{ 
+	 left: 523px; 
+	 top: 261px; 
+	 position: absolute; 
+	 width: 93px;
+	 height: 13px;
+	 z-index:76;
+} 
+
+ #Bangalore 
+{ 
+	 left: 927px; 
+	 top: 261px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 13px;
+	 z-index:77;
+} 
+
+ #34Years 
+{ 
+	 left: 673px; 
+	 top: 261px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 10px;
+	 z-index:78;
+} 
+
+ #Salary 
+{ 
+	 left: 522px; 
+	 top: 285px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 13px;
+	 z-index:79;
+} 
+
+ #IndustryStd 
+{ 
+	 left: 674px; 
+	 top: 285px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 13px;
+	 z-index:80;
+} 
+
+ #Rectangle4 
+{ 
+	 left: 957px; 
+	 top: 171px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 57px;
+	 z-index:81;
+} 
+
+ #Layer24 
+{ 
+	 left: 958px; 
+	 top: 173px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 54px;
+	 z-index:82;
+} 
+
+ #RoundedRectangle4 
+{ 
+	 left: 247px; 
+	 top: 77px; 
+	 position: absolute; 
+	 width: 788px;
+	 height: 62px;
+	 z-index:83;
+} 
+
+ #Rectangle5 
+{ 
+	 left: 246px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 5px;
+	 z-index:84;
+} 
+
+ #Shape49 
+{ 
+	 left: 353px; 
+	 top: 78px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 61px;
+	 z-index:85;
+} 
+
+ #NewJobs 
+{ 
+	 left: 268px; 
+	 top: 102px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 11px;
+	 z-index:86;
+} 
+
+ #Savedtags 
+{ 
+	 left: 374px; 
+	 top: 102px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 14px;
+	 z-index:87;
+} 
+
+ #SortbyRecent 
+{ 
+	 left: 730px; 
+	 top: 103px; 
+	 position: absolute; 
+	 width: 90px;
+	 height: 13px;
+	 z-index:88;
+} 
+
+ #Shape48 
+{ 
+	 left: 826px; 
+	 top: 106px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 7px;
+	 z-index:89;
+} 
+
+ #ViewAllSuggested 
+{ 
+	 left: 880px; 
+	 top: 103px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 13px;
+	 z-index:90;
+} 
+
+ #Shape48copy 
+{ 
+	 left: 1006px; 
+	 top: 106px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 7px;
+	 z-index:91;
+} 
+
+ #RoundedRectangle2 
+{ 
+	 left: 246px; 
+	 top: 17px; 
+	 position: absolute; 
+	 width: 789px;
+	 height: 44px;
+	 z-index:92;
+} 
+
+ #Rectangle3 
+{ 
+	 left: 983px; 
+	 top: 17px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 44px;
+	 z-index:93;
+} 
+
+ #Rectangle3copy 
+{ 
+	 left: 776px; 
+	 top: 17px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 44px;
+	 z-index:94;
+} 
+
+ #search 
+{ 
+	 left: 999px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:95;
+} 
+
+ #Searchjobsbyskillsin 
+{ 
+	 left: 268px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 13px;
+	 z-index:96;
+} 
+
+ #Anywhere 
+{ 
+	 left: 815px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 13px;
+	 z-index:97;
+} 
+
+ #map 
+{ 
+	 left: 789px; 
+	 top: 29px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 20px;
+	 z-index:98;
+} 
+
+ #Base 
+{ 
+	 left: 1067px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 270px;
+	 height: 1045px;
+	 z-index:99;
+} 
+
+ #0140PMYourApplicatio 
+{ 
+	 left: 1134px; 
+	 top: 453px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 47px;
+	 z-index:100;
+} 
+
+ #Earlier 
+{ 
+	 left: 1134px; 
+	 top: 416px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 10px;
+	 z-index:101;
+} 
+
+ #Ellipse1copy3 
+{ 
+	 left: 1087px; 
+	 top: 451px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 33px;
+	 z-index:102;
+} 
+
+ #check 
+{ 
+	 left: 1096px; 
+	 top: 461px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 13px;
+	 z-index:103;
+} 
+
+ #0140PMExampleactivit 
+{ 
+	 left: 1134px; 
+	 top: 531px; 
+	 position: absolute; 
+	 width: 172px;
+	 height: 65px;
+	 z-index:104;
+} 
+
+ #Ellipse1copy4 
+{ 
+	 left: 1087px; 
+	 top: 529px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 33px;
+	 z-index:105;
+} 
+
+ #Layer15 
+{ 
+	 left: 1081px; 
+	 top: 523px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 46px;
+	 z-index:106;
+} 
+
+ #divider 
+{ 
+	 left: 1132px; 
+	 top: 388px; 
+	 position: absolute; 
+	 width: 185px;
+	 height: 4px;
+	 z-index:107;
+} 
+
+ #0140PMYourApplicatio_0 
+{ 
+	 left: 1134px; 
+	 top: 165px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 47px;
+	 z-index:108;
+} 
+
+ #03UnreadNotification 
+{ 
+	 left: 1134px; 
+	 top: 105px; 
+	 position: absolute; 
+	 width: 99px;
+	 height: 27px;
+	 z-index:109;
+} 
+
+ #Ellipse1 
+{ 
+	 left: 1087px; 
+	 top: 164px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 33px;
+	 z-index:110;
+} 
+
+ #checkcopy 
+{ 
+	 left: 1097px; 
+	 top: 173px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 13px;
+	 z-index:111;
+} 
+
+ #0846AmjayPatelreferr 
+{ 
+	 left: 1132px; 
+	 top: 243px; 
+	 position: absolute; 
+	 width: 143px;
+	 height: 47px;
+	 z-index:112;
+} 
+
+ #Ellipse1copy 
+{ 
+	 left: 1087px; 
+	 top: 241px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 34px;
+	 z-index:113;
+} 
+
+ #Layer13 
+{ 
+	 left: 1084px; 
+	 top: 238px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 39px;
+	 z-index:114;
+} 
+
+ #0146AmNitinGargreque 
+{ 
+	 left: 1133px; 
+	 top: 321px; 
+	 position: absolute; 
+	 width: 164px;
+	 height: 47px;
+	 z-index:115;
+} 
+
+ #Ellipse1copy2 
+{ 
+	 left: 1087px; 
+	 top: 319px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 34px;
+	 z-index:116;
+} 
+
+ #Layer14 
+{ 
+	 left: 1082px; 
+	 top: 321px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 42px;
+	 z-index:117;
+} 
+
+ #Rectangle4copy4 
+{ 
+	 left: 1068px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 91px;
+	 height: 81px;
+	 z-index:118;
+} 
+
+ #Activity 
+{ 
+	 left: 1105px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 14px;
+	 z-index:119;
+} 
+
+ #Rectangle4copy5 
+{ 
+	 left: 1156px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 81px;
+	 z-index:120;
+} 
+
+ #analytics 
+{ 
+	 left: 1200px; 
+	 top: 31px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 15px;
+	 z-index:121;
+} 
+
+ #Base_0 
+{ 
+	 left: 1245px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 81px;
+	 z-index:122;
+} 
+
+ #Not 
+{ 
+	 left: 1280px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 17px;
+	 z-index:123;
+} 
+
+ #RoundedRectangle3 
+{ 
+	 left: 1285px; 
+	 top: 19px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 22px;
+	 z-index:124;
+} 
+
+ #layer_04 
+{ 
+	 left: 1293px; 
+	 top: 26px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 8px;
+	 z-index:125;
+} 
+
+ #Base_1 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 1045px;
+	 z-index:126;
+} 
+
+ #Rectangle4copy7 
+{ 
+	 left: -1px; 
+	 top: 383px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 50px;
+	 z-index:127;
+} 
+
+ #usercopy4 
+{ 
+	 left: 23px; 
+	 top: 399px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 18px;
+	 z-index:128;
+} 
+
+ #Me 
+{ 
+	 left: 60px; 
+	 top: 405px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 9px;
+	 z-index:129;
+} 
+
+ #Rectangle4copy8 
+{ 
+	 left: -1px; 
+	 top: 335px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 51px;
+	 z-index:130;
+} 
+
+ #Community 
+{ 
+	 left: 60px; 
+	 top: 357px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 9px;
+	 z-index:131;
+} 
+
+ #tooltip 
+{ 
+	 left: 22px; 
+	 top: 350px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:132;
+} 
+
+ #Rectangle4copy9 
+{ 
+	 left: -1px; 
+	 top: 287px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 51px;
+	 z-index:133;
+} 
+
+ #LeaderBoard 
+{ 
+	 left: 59px; 
+	 top: 308px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 9px;
+	 z-index:134;
+} 
+
+ #rocket 
+{ 
+	 left: 22px; 
+	 top: 302px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:135;
+} 
+
+ #Rectangle4copy10 
+{ 
+	 left: -1px; 
+	 top: 238px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 52px;
+	 z-index:136;
+} 
+
+ #MyNetwork 
+{ 
+	 left: 60px; 
+	 top: 260px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 9px;
+	 z-index:137;
+} 
+
+ #Globe 
+{ 
+	 left: 23px; 
+	 top: 255px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:138;
+} 
+
+ #Rectangle4copy11 
+{ 
+	 left: -1px; 
+	 top: 77px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 51px;
+	 z-index:139;
+} 
+
+ #Rectangle4copy12 
+{ 
+	 left: -1px; 
+	 top: 125px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 116px;
+	 z-index:140;
+} 
+
+ #RecommendedReferrals 
+{ 
+	 left: 60px; 
+	 top: 140px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 73px;
+	 z-index:141;
+} 
+
+ #Jobs 
+{ 
+	 left: 60px; 
+	 top: 99px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 9px;
+	 z-index:142;
+} 
+
+ #Home 
+{ 
+	 left: 22px; 
+	 top: 92px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 20px;
+	 z-index:143;
+} 
+
+ #CollapseMenu 
+{ 
+	 left: 170px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 14px;
+	 z-index:144;
+} 
+
+ #Logo 
+{ 
+	 left: 60px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 32px;
+	 z-index:145;
+} 
+
+ #Search 
+{ 
+	 left: 762px; 
+	 top: 47px; 
+	 position: absolute; 
+	 width: 240px;
+	 height: 232px;
+	 z-index:146;
+} 
+
+ #Rectangle6 
+{ 
+	 left: 550px; 
+	 top: 460px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 25px;
+	 z-index:147;
+} 
+
+ #ToRefer 
+{ 
+	 left: 559px; 
+	 top: 468px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 9px;
+	 z-index:148;
+} 
